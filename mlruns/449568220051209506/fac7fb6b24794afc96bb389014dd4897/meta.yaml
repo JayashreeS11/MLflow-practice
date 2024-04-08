@@ -1,0 +1,15 @@
+artifact_uri: /home/jayashree/MLflow-practice/mlruns/449568220051209506/fac7fb6b24794afc96bb389014dd4897/artifacts
+end_time: 1712560297168
+entry_point_name: ''
+experiment_id: '449568220051209506'
+lifecycle_stage: active
+run_id: fac7fb6b24794afc96bb389014dd4897
+run_name: aged-sheep-162
+run_uuid: fac7fb6b24794afc96bb389014dd4897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560296239
+status: 3
+tags: []
+user_id: jayashree

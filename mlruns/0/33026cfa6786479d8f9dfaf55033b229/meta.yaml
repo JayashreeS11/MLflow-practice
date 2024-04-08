@@ -1,0 +1,15 @@
+artifact_uri: /home/jayashree/MLflow-practice/mlruns/0/33026cfa6786479d8f9dfaf55033b229/artifacts
+end_time: 1712560689266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33026cfa6786479d8f9dfaf55033b229
+run_name: persistent-bass-219
+run_uuid: 33026cfa6786479d8f9dfaf55033b229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560604425
+status: 4
+tags: []
+user_id: jayashree

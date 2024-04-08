@@ -1,0 +1,15 @@
+artifact_uri: /home/jayashree/MLflow-practice/mlruns/449568220051209506/7d934fac593b492fb467dd4d4db17786/artifacts
+end_time: 1712560114220
+entry_point_name: ''
+experiment_id: '449568220051209506'
+lifecycle_stage: active
+run_id: 7d934fac593b492fb467dd4d4db17786
+run_name: crawling-wolf-646
+run_uuid: 7d934fac593b492fb467dd4d4db17786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560112872
+status: 3
+tags: []
+user_id: jayashree

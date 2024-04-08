@@ -1,0 +1,15 @@
+artifact_uri: /home/jayashree/MLflow-practice/mlruns/449568220051209506/9c099674167845f4b70aae81ba1a892f/artifacts
+end_time: 1712560278582
+entry_point_name: ''
+experiment_id: '449568220051209506'
+lifecycle_stage: active
+run_id: 9c099674167845f4b70aae81ba1a892f
+run_name: capable-seal-162
+run_uuid: 9c099674167845f4b70aae81ba1a892f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560277668
+status: 3
+tags: []
+user_id: jayashree
